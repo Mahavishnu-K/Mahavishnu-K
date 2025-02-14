@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **Anemia Detection Using MATLAB**
  
-📈 I’m currently learning **react, node.js, javascript**
+📈 I’m currently learning **node.js, Express JS**
 
  👯 I’m looking to collaborate on **open projects**
 
