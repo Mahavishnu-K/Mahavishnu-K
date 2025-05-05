@@ -10,9 +10,9 @@
  
  🔭 I’m currently working on **Medical Pharmacy Management Software**
  
-📈 I’m currently learning **node.js, Express JS**
+📈 I’m currently learning **Devops Tools to maximize my Development**
 
- 👯 I’m looking to collaborate on **open projects**
+ 👯 I’m looking to collaborate on **open-source projects**
 
 💬 Ask me about **anything, but not about things I don't know ;)**
 
