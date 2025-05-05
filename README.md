@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Anemia Detection Using MATLAB**
+ 🔭 I’m currently working on **Medical Pharmacy Management Software**
  
 📈 I’m currently learning **node.js, Express JS**
 
