@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **FastDB**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, OCI, AWS**
 
 💬 Ask me about **Node.js, React, Firebase... or anything**
 
