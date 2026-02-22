@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **FastDB**, **QMail**
- 
- 🌱 I’m currently learning **Docker, OCI, AWS**
+ 🔭 I’m currently working on **ore-kernel**
+
+ 🦀 Banging head with Rust #LetsGetRusty
 
 💬 Ask me about **Node.js, React, Firebase... or anything**
 
