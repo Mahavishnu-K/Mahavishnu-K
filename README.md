@@ -53,3 +53,25 @@
   
   <br/><br/><br/>
 </div>
+
+
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Initializing+developer+telemetry...;Loading+Code+Modules...;Access+Granted" /></p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mahavishnu-K&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahavishnu-K&theme=tokyonight&hide_border=true&background=0d1117&ring=00ffff&fire=00ffff&currStreakLabel=00ffff"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahavishnu-K&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff"/>
+</p>
+
+---
