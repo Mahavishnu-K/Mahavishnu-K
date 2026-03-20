@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **ore-kernel**
+ 🔭 I’m currently working on <a href="https://github.com/Mahavishnu-K/ore-kernel">**ore-kernel**</a>
 
  🦀 Banging head with Rust #LetsGetRusty
 
