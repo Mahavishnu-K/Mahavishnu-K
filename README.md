@@ -1,53 +1,56 @@
-<h1 align="left">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Mono+Pro&size=35&center=true&vCenter=true&width=500&height=50&duration=4000&lines=Hi+There!+👋;+I'm+Mahavishnu+K!;" />
-</h1>
+# Hi, I'm Mahavishnu K 👋
 
-<h3 align="left">A freaky developer from India IN 👾</h3>
+📍 **India** | 😶‍🌫️ **Software Developer** | ⚙️ **Architecting Systems** | 🦀 **Banging head with Rust** | 
 
-<br/>
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F05012?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-<div align="left">
- 🔭 I’m currently working on <a href="https://github.com/Mahavishnu-K/ore-kernel">ore-kernel</a>
-    <br/>
- 🦀 Banging head with Rust #LetsGetRusty<br/>
- 🗂️ Done some stuff, you should find it below!
- </div>
- <br/>
-<div align="left"> 
-  <a href="mailto:mahavishnu005sk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a><br/>
-  <a href="https://www.linkedin.com/in/mahavishnu-k-1a293922b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a><br/>
-  <a href="https://mahavishnu-k.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+Crafting it, as it should be.
 
- <hr/>
- 
-<h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java" /><br>
-    <img src="https://skillicons.dev/icons?i=react,vscode,github,git" /> <br/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=express,fastapi,mongodb,postgres" /><br>
-</div>
+## Current Projects
 
-<br/>
-<hr/>
+- ⚙️ **[ore-kernel](https://github.com/Mahavishnu-K/ore-kernel)** - The Operating System for Local Intelligence. A Rust-based hypervisor multiplexing GPUs and providing Zero-Copy Semantic IPC for multi-agent swarms.
+- ⚡ **[FastDB](https://github.com/Mahavishnu-K/FastDB)** - The Conversational Cloud Database. 
+- 🛠️ **[FastDB-CLI](https://github.com/Mahavishnu-K/FastDB-CLI)** - The terminal interface for managing FastDB clusters.
+- 🔒 **[QMail](https://github.com/Mahavishnu-K/QMail)** - Desktop Email Client application. Depicts software implementation of quantum-secure communication protocol QKD.
 
-<div align="left">
-  <h2> My Contributions </h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-    <img alt="github snake animation" src="dist/github-snake.svg" />
-  </picture>
-  
-  <br/>
-</div>
+## What I'm Doing
+
+- **Exploring the Unknown** - Constantly diving into new paradigms, from Cryptography to Local AI swarms.
+- **Building the Base Layer** - Moving past Python AI wrappers to build the actual Rust memory management infrastructure underneath.
+- **AI-Accelerated Engineering** - Using AI not just to write my logic, but to compile my systems-level architecture into flawless syntax.
+- **Solving the "Context Wall"** - Exploring JIT embeddings, SSD KV-Cache Paging, and Zero-Idle RAM architectures.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahavishnu-k-1a293922b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=dev.to&logoColor=white)](https://mahavishnu-k.vercel.app/)
+[![Email](https://img.shields.io/badge/-GMail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahavishnu005sk@gmail.com)
 
 ---
+
+### Engineering Philosophy
+
+**"Code with curiosity. Architect with paranoia."**
+
+### Compiled Thoughts
+
+- Deep curiosity for how things work under the hood.
+- Passionate about the craft of software engineering. 
+- Tearing down complex problems and building elegant solutions from scratch.
+- Build environments where developers can innovate freely without ever melting their machines.
+- Leverage AI as a compiler for architecture, to ship high-performance, memory-safe infrastructure at ludicrous speed.
+
+## My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github snake animation" src="dist/github-snake.svg" />
+</picture>
