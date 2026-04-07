@@ -15,7 +15,7 @@ Crafting it, as it should be.
 
 ## Current Projects
 
-- ⚙️ **[ore-kernel](https://github.com/Mahavishnu-K/ore-kernel)** - The Operating System for Local Intelligence. A Rust-based hypervisor multiplexing GPUs and providing Zero-Copy Semantic IPC for multi-agent swarms.
+- ⚙️ **[ore-kernel](https://github.com/Mahavishnu-K/ore-kernel)** - A Rust-based runtime that multiplexes GPU access across agents, shares model memory efficiently, enables fast in-memory agent communication a hive mind across multi-agents.
 - ⚡ **[FastDB](https://github.com/Mahavishnu-K/FastDB)** - The Conversational Cloud Database. 
 - 🛠️ **[FastDB-CLI](https://github.com/Mahavishnu-K/FastDB-CLI)** - The terminal interface for managing FastDB clusters.
 - 🔒 **[QMail](https://github.com/Mahavishnu-K/QMail)** - Desktop Email Client application. Depicts software implementation of quantum-secure communication protocol QKD.
