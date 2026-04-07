@@ -31,7 +31,7 @@ Crafting it, as it should be.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahavishnu-k-1a293922b/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=dev.to&logoColor=white)](https://mahavishnu-k.vercel.app/)
-[![Email](https://img.shields.io/badge/-GMail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahavishnu005sk@gmail.com)
+[![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahavishnu005sk@gmail.com)
 
 
 ## Engineering Philosophy
