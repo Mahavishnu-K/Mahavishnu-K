@@ -33,13 +33,12 @@ Crafting it, as it should be.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=dev.to&logoColor=white)](https://mahavishnu-k.vercel.app/)
 [![Email](https://img.shields.io/badge/-GMail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahavishnu005sk@gmail.com)
 
----
 
-### Engineering Philosophy
+## Engineering Philosophy
 
 **"Code with curiosity. Architect with paranoia."**
 
-### Compiled Thoughts
+## Compiled Thoughts
 
 - Deep curiosity for how things work under the hood.
 - Passionate about the craft of software engineering. 
