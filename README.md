@@ -24,7 +24,7 @@ Crafting it, as it should be.
 
 - **Exploring the Unknown** - Constantly diving into new paradigms, from Cryptography to Local AI swarms.
 - **Building the Base Layer** - Moving past Python AI wrappers to build the actual Rust memory management infrastructure underneath.
-- **AI-Accelerated Engineering** - Using AI not just to write my logic, but to compile my systems-level architecture into flawless syntax.
+- **AI-Accelerated Engineering** - Using AI not just to write my logic, but to compile my systems-level architecture into flawless syntax at ludicrous speed.
 - **Solving the "Context Wall"** - Exploring JIT embeddings, SSD KV-Cache Paging, and Zero-Idle RAM architectures.
 
 ## Connect
@@ -44,7 +44,6 @@ Crafting it, as it should be.
 - Passionate about the craft of software engineering. 
 - Tearing down complex problems and building elegant solutions from scratch.
 - Build environments where developers can innovate freely without ever melting their machines.
-- Leverage AI as a compiler for architecture, to ship high-performance, memory-safe infrastructure at ludicrous speed.
 
 ## My Contributions
 
