@@ -45,7 +45,7 @@ Crafting it, as it should be.
 - Tearing down complex problems and building elegant solutions from scratch.
 - Build environments where developers can innovate freely without ever melting their machines.
 
-## My Contributions
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
