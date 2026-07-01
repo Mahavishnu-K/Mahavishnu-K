@@ -11,7 +11,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=Mahavishnu-K&label=Github%20Boots&style=social&color=58a6ff)
+![](https://komarev.com/ghpvc/?username=Mahavishnu-K&label=Github%20Boots&style=social&color=39d353)
 
 Crafting it, as it should be.
 
