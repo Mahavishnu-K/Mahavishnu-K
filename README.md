@@ -52,7 +52,7 @@ Crafting it, as it should be.
 
 ## Compiled Thoughts
 
-I am deeply passionate about tearing down complex abstractions to understand how things work at the silicon level. I believe the future of AI isn't just larger models, but building the highly-efficient, mathematically secure infrastructure required to run them safely. Just wanted to move past API wrappers to engineer the core hardware and security layers underneath.
+I am deeply passionate about tearing down complex abstractions to understand how things work at the silicon level. I believe the future of AI isn't just larger models, but building the highly-efficient, mathematically secure infrastructure required to run them safely. Just wanted to move past API wrappers to engineer the core software and security layers underneath.
 
 ## Contributions
 
