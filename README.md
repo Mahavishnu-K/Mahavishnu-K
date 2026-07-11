@@ -1,6 +1,6 @@
 # Hi, I'm Mahavishnu K 👋
 
-📍 **India** | 😶‍🌫️ **Software Developer** | ⚙️ **Architecting Systems** | 🦀 **Banging head with Rust** | 
+📍 **India** | 😶‍🌫️ **Software Engineer** | ⚙️ **Architecting Systems** | 🦀 **Banging head with Rust** | 
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-654FF0?style=flat-square&logo=webassembly&logoColor=white)
