@@ -20,8 +20,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=Mahavishnu-K&label=Github%20Boots&style=social&color=39d353)
-
 Crafting it, as it should be.
 
 ## Current Projects
@@ -45,6 +43,7 @@ Crafting it, as it should be.
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat-square&logo=dev.to&logoColor=white)](https://mahavishnu-k.vercel.app/)
 [![Email](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mahavishnu005sk@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=Mahavishnu-K&label=Github%20Boots&style=social&color=39d353)
 
 ## Engineering Philosophy
 
