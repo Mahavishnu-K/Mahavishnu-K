@@ -56,7 +56,7 @@ I am deeply passionate about tearing down complex abstractions to understand how
 ## Contributions
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github snake animation" src="dist/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mahavishnu-K/Mahavishnu-K/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mahavishnu-K/Mahavishnu-K/output/github-snake.svg" />
+  <img alt="github snake animation" src="https://raw.githubusercontent.com/Mahavishnu-K/Mahavishnu-K/output/github-snake.svg" />
 </picture>
