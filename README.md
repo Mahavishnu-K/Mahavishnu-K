@@ -27,7 +27,7 @@ Crafting it, as it should be.
 - **[ore-kernel](https://github.com/Mahavishnu-K/ore-kernel)** - A Rust-based kernel that virtualizes AI hardware. Features a 50-microsecond **Zero-Trust WASM Execution Sandbox**, SSD-backed true KV-Cache Paging, a Layer-7 Network Proxy, and a Semaphore-based GPU scheduler to safely run multi-agent swarms on consumer hardware.
 - **[FastDB](https://github.com/Mahavishnu-K/FastDB)** - The Conversational Cloud Database. A highly scalable database architecture designed for rapid data ingestion and natural querying. <br/>
   (Paired with **[FastDB-CLI](https://github.com/Mahavishnu-K/FastDB-CLI)** for terminal-based cluster management)
-- **[QMail](https://github.com/Mahavishnu-K/QMail)** - Desktop Email Client application. A software implementation of a custom encryption protocol inspired by the QKD (BB84) protocol, bypassing traditional factorization-based RSA vulnerabilities.
+- **[QMail](https://github.com/Mahavishnu-K/QMail)** - Desktop Email Client application. A software-emulated implementation of a custom encryption protocol inspired by the QKD (BB84) protocol.
 
 ## What I'm Doing
 
