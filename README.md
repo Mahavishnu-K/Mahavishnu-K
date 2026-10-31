@@ -25,7 +25,7 @@ Crafting it, as it should be.
 ## Current Work
 
 - **[ore-kernel](https://github.com/Mahavishnu-K/ore-kernel)** - A Rust-based kernel that virtualizes AI hardware. Features a 50-microsecond **Zero-Trust WASM Execution Sandbox**, SSD-backed true KV-Cache Paging, a Layer-7 Network Proxy, and a Semaphore-based GPU scheduler to safely run multi-agent swarms on consumer hardware.
-  <br/>
+
   [![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/Mahavishnu-K/badge.svg)](https://hub.xerj.org/contributors/Mahavishnu-K)
 
 ## What I'm Doing
